@@ -1,16 +1,39 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
+<body>
+ABOUT ME!!
+<br>
+<i>Name:</i> <strong>Asphodel</strong>
+  <br>
+  Nicknames: Asph, Del, Aspho, Asphie
+  <br>
+  Age: <i> <strong>MINOR</strong></i>
+  <br>
+  <br>
+ <p style="text-align: center;"> <i>いつまででもアタシだけを見て。。</i> </p>
+  <br>
+  LIKES: TWST, Black Butler, close friends, music, and more
+  <br>
+  <br>
+  DISLIKES: BASIC DNI. ESP NON-SHARING YUMES WHO ATTACK PPL FOR NO DEFINITE REASON.
+  <br>
+  <br>
+  FAVORITES: Idia, Jamil, Malleus, Vil (top 4!!)
+  <br>
+  <br>
+  KINS: Idia, Violet Gregory, Jinx (Arcane), Ellie williams, Max caulfield, Chloe Price (i have a lot of kins)
+  <br>
+  <br>
+  EXTRA: Im a mulifandom cutie!! but my main interest rn is TWST <3
+    <br>
+    TWST ID: HnAmSB feel free to add me!
+</body>
 
-<!--
-**Asphodelliiee/Asphodelliiee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+</html>
